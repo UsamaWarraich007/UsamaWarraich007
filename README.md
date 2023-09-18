@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UsamaWarraich007
-- 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning flutter in deep
+- 👀 I’m interested in ML&AI and Flutter development
+- 🌱 I’m currently learning ML&AI in deep
 - 📫 you can contact with me by sending email(usamanawaz7722@gmail.com)
 
 <!---
